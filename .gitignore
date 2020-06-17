@@ -1,0 +1,23 @@
+# Intellij
+*.iws
+*.iml
+*.ipr
+.idea/*
+.vscode/
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# Target
+target/
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+logs/
